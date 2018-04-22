@@ -7,13 +7,13 @@ This portfolio is a compilation of Notebooks in which I explore different data a
 # Classification problem for Identifying the Music Genre of Songs
 
  A custom subset of the Million Song Dataset is classified by the genre of the songs based on 264 bag-of-frames features.
- I use a borderline over-sampling method for imbalanced dataset, and use support vector machnine, logistic regression and XGboost classifier algorithms for the classification.
+ I use a borderline over-sampling method for imbalanced dataset, and use support vector machine, logistic regression and XGboost classifier algorithms for the classification.
  
   [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Song_Classification.ipynb)
  
  # Regression problem: House Prices: Advanced Regression Techniques
  
- This is a [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) in which I different regression methods to predict the sale price of houses in Ames, Iowa based on 79 different numerical and categorical features.
+ This is a [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) in which I use different regression methods to predict the sale price of houses in Ames, Iowa based on 79 different numerical and categorical features.
  
  [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/HousePriceRegression.ipynb)
  
