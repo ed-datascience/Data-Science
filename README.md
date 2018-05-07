@@ -22,3 +22,8 @@ This portfolio is a compilation of Notebooks in which I explore different data a
  I collected 1000 tweets per member of US congress to analyse how differently US senators from either parties use Twitter, and if we can guess which party the senator represents using term frequency–inverse document frequency(TF-IDF) statistic and Multinomial Naive Bayes classifier.
  
   [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Congress_Tweet_Analysis.ipynb)
+  
+  # Plant Seedlings Classification
+  
+  This dataset is from [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification). Goal is to classify different crop seedlings. For classification I use pretrained Xception model from Keras as a base model.
+  [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Plant_Seedlings_Classification.ipynb)
