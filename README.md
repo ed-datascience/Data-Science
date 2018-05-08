@@ -33,3 +33,9 @@ This portfolio is a compilation of Notebooks in which I explore different data a
 A simple tweet sentiment classification using pretrained [GloVe word vectors](https://nlp.stanford.edu/projects/glove/) simple convolutional neural network. Network is roughly inspired by article [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882). Dataset is trained and tested with [Sentiment Analysis Dataset](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/) which contains 1,578,627 classified tweets, each row is marked as 1 for positive sentiment and 0 for negative sentiment.
 
 [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Tweet_Semantics_Analysis.ipynb)
+
+# Deep MNIST tutorial
+
+Tutorial from Tensorflow for deep convolutional MNIST classifier with 99.2% accuracy.
+
+[Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Deep%20MNIST%20tutorial.ipynb)
