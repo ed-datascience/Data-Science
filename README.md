@@ -27,3 +27,7 @@ This portfolio is a compilation of Notebooks in which I explore different data a
   
   This dataset is from [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification). Goal is to classify different crop seedlings. For classification I use pretrained Xception model from Keras as a base model.
   [Notebook](https://github.com/ed-datascience/Data-Science/blob/master/Notebooks/Plant_Seedlings_Classification.ipynb)
+  
+# Tweet Semantic Analysis
+
+A simple tweet sentiment classification using pretrained [GloVe word vectors](https://nlp.stanford.edu/projects/glove/) simple convolutional neural network. Network is roughly inspired by article [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882). Dataset is trained and tested with [Sentiment Analysis Dataset](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/) which contains 1,578,627 classified tweets, each row is marked as 1 for positive sentiment and 0 for negative sentiment.
